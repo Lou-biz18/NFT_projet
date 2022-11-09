@@ -1,0 +1,35 @@
+{
+  "name": "InfiNFTy #4",
+  "description": "La Voie Galactée des NFT",
+  "image": "ipfs://QmXeMNFasQAWt6PxGfg5TBXpJspBdJyysGtnUxS8YnFsCb/4.png",
+  "dna": "b146b44867d26df1f64b438083c9097d777fd5e7",
+  "edition": 4,
+  "date": 1667919427189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Star",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Ring",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "InfiNFTy #13",
+  "description": "La Voie Galactée des NFT",
+  "image": "ipfs://QmXeMNFasQAWt6PxGfg5TBXpJspBdJyysGtnUxS8YnFsCb/13.png",
+  "dna": "fa3b3a715d6da5ae2f84e64bb544f27c62d4dc37",
+  "edition": 13,
+  "date": 1667919429316,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Star",
+      "value": "YellowStars"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Ring",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
