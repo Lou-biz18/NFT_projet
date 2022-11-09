@@ -25,7 +25,7 @@ Nous avons créé nos propres layers (sur Figma et Canva) répartis en différen
 
 Pour créer le contrat et y connecter nos NFT (dans le dossier "hashlips_nft_minting_dapp"):
 https://www.youtube.com/watch?v=4Dkwe0Qj86c&t=1445s  
-Nous avons ensuite déployé notre smart contract directemenyt sur visual studio grâce à Hardhat et Infura. Nous avons relié le metadata des NFT créés au contrat.
+Nous avons ensuite déployé notre smart contract directement sur visual studio grâce à Hardhat et Infura. Nous avons relié le metadata des NFT créés au contrat.
 
 Pour créer l'application permettant de minter les NFT (dans le dossier "hashlips_nft_minting_dapp"):
 https://github.com/HashLips/hashlips_nft_minting_dapp  
@@ -34,7 +34,8 @@ Sur notre application nous pouvons connecter notre wallet Metamask afin de miner
 
 
 ○ En quoi la blockchain est importante sur ce projet
-La preuve d'appartenance de ces NFT eest directement déclarées sur la blockchain GoerliEtereum.
+
+La preuve d'appartenance de ces NFT est directement déclarée sur la blockchain GoerliEtereum.
 
 
 ○ Les prénoms/noms de participants au rendu
