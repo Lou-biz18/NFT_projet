@@ -41,8 +41,8 @@ La preuve d'appartenance de ces NFT eest directement déclarées sur la blockcha
 
 ING5 OCRES TD02
 
-Lou BIZET
-Clothilde MARX
+Lou BIZET - 
+Clothilde MARX - 
 Carmen OSANLOU
 
 # NFTLCSC
