@@ -5,10 +5,8 @@
 Dans le terminal:
 
     1. cd hashlips_nft_minting_dapp
-    2. npm cache clean --force
-    3. rm -rf node_modules
-    4. npm install
-    5. npm start
+    2. npm install
+    3. npm start
 
 
 
