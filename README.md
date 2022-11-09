@@ -38,8 +38,11 @@ La preuve d'appartenance de ces NFT eest directement déclarées sur la blockcha
 
 
 ○ Les prénoms/noms de participants au rendu
+
 ING5 OCRES TD02
 
 Lou BIZET
 Clothilde MARX
-Carmen OSANLOU# NFTLCSC
+Carmen OSANLOU
+
+# NFTLCSC
