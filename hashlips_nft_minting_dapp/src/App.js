@@ -386,7 +386,7 @@ function App() {
               color: "#FFFFFF",
             }}
           >
-            Vérifiez que vous êtes bien connectés au réseau {CONFIG.NETWORK.NAME} Mainnet. Attention, aux vues de la forte demande pour nos InfiNFTy, il ne peut y avoir ni échange, ni remboursement.
+            Vérifiez que vous êtes bien connecté au réseau {CONFIG.NETWORK.NAME}. Attention, aux vues de la forte demande pour nos InfiNFTy, il ne peut y avoir ni échange, ni remboursement.
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
@@ -395,7 +395,7 @@ function App() {
               color: "#FFFFFF",
             }}
           >
-            Nous avons défini la limite de gas à {CONFIG.GAS_LIMIT} pour ce contrat. Nous recommandons de ne pas baisser cette limite.
+            Nous avons défini la limite de gaz à {CONFIG.GAS_LIMIT} pour ce contrat. Nous recommandons de ne pas baisser cette limite.
           </s.TextDescription>
         </s.Container>
       </s.Container>
