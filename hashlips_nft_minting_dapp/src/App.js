@@ -18,7 +18,8 @@ export const StyledButton = styled.button`
   color: var(--secondary-text);
   width: 100px;
   cursor: pointer;
-  box-shadow: 0px 6px 0px -2px rgba(250, 250, 250, 0.3);
+  
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
   -webkit-box-shadow: 0px 6px 0px -2px rgba(250, 250, 250, 0.3);
   -moz-box-shadow: 0px 6px 0px -2px rgba(250, 250, 250, 0.3);
   :active {
@@ -43,7 +44,7 @@ export const StyledRoundButton = styled.button`
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0px 4px 0px -2px rgba(250, 250, 250, 0.3);
+  box-shadow: 0px 4px 0px 4px rgba(250, 250, 250, 0.3);
   -webkit-box-shadow: 0px 4px 0px -2px rgba(250, 250, 250, 0.3);
   -moz-box-shadow: 0px 4px 0px -2px rgba(250, 250, 250, 0.3);
   :active {
@@ -200,7 +201,7 @@ function App() {
         style={{ padding: 24, backgroundColor: "#061D61" }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/5.png" : null}
       >
-        <StyledLogo alt={"logo"} src={"/config/images/InfiNFTy_Logo.png"} />
+        <StyledLogo alt={"logo"} src={"/config/images/LogoInfinity.png"} />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
