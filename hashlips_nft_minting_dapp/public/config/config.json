@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x56f2CdF6209cB0283B13c55f2a1Cc0038e33C8aD",
+  "SCAN_LINK": " https://goerli.etherscan.io/tx/0xff27daf74eba8dfcefca394b4947326ea9dc7a564d639e5493f66ab12e45dc02",
+  "NETWORK": {
+    "NAME": "Goerli",
+    "SYMBOL": "GoerliETH",
+    "ID": 5
+  },
+  "NFT_NAME": "InfiNFTy",
+  "SYMBOL": "INF",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.015,
+  "GAS_LIMIT": 210000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/carmennft",
+  "SHOW_BACKGROUND": true
+}
